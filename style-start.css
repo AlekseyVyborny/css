@@ -1,0 +1,31 @@
+h1 {
+    font-size: 28px;
+    font-family: Monaco, Courier, monospace;
+    color: #618ad2;
+}
+h2 {
+    font-size: 28px;
+    font-family: Georgia, serif;
+    color: #618ad2;
+}
+
+p {
+    transition: font-size .5s;
+    line-height: 1.2;
+}
+li {
+    list-style: none;
+}
+
+pre {
+    padding: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    background: #f5f5f5;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+}
+
+em {
+    color: #618ad2;
+}
